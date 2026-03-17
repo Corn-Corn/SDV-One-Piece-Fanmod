@@ -1,0 +1,16 @@
+{
+	"Name": "SDVOPMod",
+	"Author": "CornCorn",
+	"Version": "1.0.0-alpha",
+	"Description": "Just a test mod.",
+	"UniqueID": "CornCorn.SDVOPMod",
+	"EntryDll": "SDVOPMod.dll",
+	"MinimumApiVersion": "4.0.0",
+	"UpdateKeys": []
+	"Dependencies": [
+		{
+			"UniqueID": "CP-SDVOPMod",
+			"IsRequired": true
+		}
+	]
+}

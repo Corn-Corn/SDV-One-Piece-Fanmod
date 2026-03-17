@@ -1,0 +1,12 @@
+{
+	"Name": "CP-SDVOPMod",
+	"Author": "CornCorn",
+	"Version": "1.0.0-alpha",
+	"Description": "SDV One Piece Content Patcher Fanmod that adds characters, food, weapons and more from One Piece.",
+	"UniqueID": "CornCorn.CP-SDVOPMod",
+	"MinimumApiVersion": "4.0.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+}

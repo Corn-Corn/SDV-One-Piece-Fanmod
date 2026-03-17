@@ -1,0 +1,10 @@
+{
+	"Format": "2.9.0",
+	"ConfigSchema": {
+		
+	}
+	"Changes": [
+		"Action": "Include",
+		"FromFile": "assets/Patcher/objects.json, assets/Patcher/maps.json, assets/Patcher/npcs.json"
+	]
+}
