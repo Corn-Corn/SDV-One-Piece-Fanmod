@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "De59OS34XxQ=",
+  "success": true,
+  "projectFilePath": "/home/conor/Schreibtisch/SDV Mods/SDV-One-Piece-Fanmod/SDVOnePieceFanmod/SDVOnePieceFanmod.csproj",
+  "expectedPackageFiles": [
+    "/home/conor/.nuget/packages/pathoschild.stardew.modbuildconfig/4.4.0/pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

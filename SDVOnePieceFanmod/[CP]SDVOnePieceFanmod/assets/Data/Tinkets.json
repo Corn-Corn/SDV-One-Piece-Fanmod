@@ -1,0 +1,20 @@
+{
+    "{{ModId}}_Brooks_Guitar": {
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Accessories.Tinkets.BrooksGuitar.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Accessories.Tinkets.BrooksGuitar.Description}}",
+        "Texture": "Mods/{{ModId}}/Character/Farmer/Tinkets",
+        "SpritIndex": 0
+    },
+    "{{ModId}}_Choppers_Backpack": {
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Accessories.Tinkets.ChoppersBackpack.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Accessories.Tinkets.ChoppersBackpack.Description}}",
+        "Texture": "Mods/{{ModId}}/Character/Farmer/Tinkets",
+        "SpritIndex": 1
+    },
+    "{{ModId}}_Log_Port": {
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Accessories.Tinkets.LogPort.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Accessories.Tinkets.LogPort.Description}}",
+        "Texture": "Mods/{{ModId}}/Character/Farmer/Tinkets",
+        "SpritIndex": 2
+    }
+}

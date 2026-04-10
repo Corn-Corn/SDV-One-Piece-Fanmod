@@ -1,0 +1,18 @@
+{
+    "{{ModId}}_Marine_Jacket": {
+        "Name": "{{ModId}}_Marine_Jacket",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Accessories.Shirts.MarineJacket.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Accessories.Shirts.MarineJacket.Description}}",
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Character/Farmer/Shirts",
+        "SpriteIndex": 0
+    },
+    "{{ModId}}_Sanjis_Suit": {
+        "Name": "{{ModId}}_Marine_Jacket",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Accessories.Shirts.SanjisSuit.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Accessories.Shirts.SanjisSuit.Description}}",
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Character/Farmer/Shirts",
+        "SpriteIndex": 1
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "{{ModId}}_Chocolate": {
+        "Name": "{{ModId}}_Chocolate",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Food.Chocolate.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Food.Chocolate.Description}}",
+        "Type": "Cooking",
+        "Category": -7,
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Objects/Food",
+        "SpriteIndex": 0
+    },
+    "{{ModId}}_Cotten_Candy": {
+        "Name": "{{ModId}}_Cotten_Candy",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Food.CottenCandy.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Food.CottenCandy.Description}}",
+        "Type": "Cooking",
+        "Category": -7,
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Objects/Food",
+        "SpriteIndex": 1
+    },
+    "{{ModId}}_Franky_Cola": {
+        "Name": "{{ModId}}_Franky_Cola",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Food.FrankyCola.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Food.FrankyCola.Description}}",
+        "Type": "Cooking",
+        "Category": -7,
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Objects/Food",
+        "SpriteIndex": 2
+    },
+    "{{ModId}}_Meat_On_The_Bone": {
+        "Name": "{{ModId}}_Meat_On_The_Bone",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Food.MeatOnTheBone.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Food.MeatOnTheBone.Description}}",
+        "Type": "Cooking",
+        "Category": -7,
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Objects/Food",
+        "SpriteIndex": 3
+    },
+    "{{ModId}}_Onigiri": {
+        "Name": "{{ModId}}_Onigiri",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Food.Onigiri.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Food.Onigiri.Description}}",
+        "Type": "Cooking",
+        "Category": -7,
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Objects/Food",
+        "SpriteIndex": 4
+    },
+    "{{ModId}}_Sandwich": {
+        "Name": "{{ModId}}_Sandwich",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Food.Sandwich.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Food.Sandwich.Description}}",
+        "Type": "Cooking",
+        "Category": -7,
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Objects/Food",
+        "SpriteIndex": 5
+    },
+    "{{ModId}}_Seafood_Pasta": {
+        "Name": "{{ModId}}_Seafood_Pasta",
+        "DisplayName": "{{i18n:{{ModId}}.Objects.Food.SeafoodPasta.DisplayName}}",
+        "Description": "{{i18n:{{ModId}}.Objects.Food.SeafoodPasta.Description}}",
+        "Type": "Cooking",
+        "Category": -7,
+        "Price": ,
+        "Texture": "Mods/{{ModId}}/Objects/Food",
+        "SpriteIndex": 6
+    }
+}

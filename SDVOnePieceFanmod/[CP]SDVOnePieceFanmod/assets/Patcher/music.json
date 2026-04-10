@@ -1,0 +1,27 @@
+{
+    "Changes": [
+        {
+            "LogName": "",
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": {
+                "{{ModId}}_Binks_Sake": {
+                    "ID": "{{ModId}}_Binks_Sake",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: assets/Data/Music/binksSake.wav}}"
+                    ],
+                    "Looped": true
+                }
+            }
+        },
+        {
+            "LogName": "Add 'Binks Sake' to",
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Fields": {
+
+            }
+        }
+    ]
+}

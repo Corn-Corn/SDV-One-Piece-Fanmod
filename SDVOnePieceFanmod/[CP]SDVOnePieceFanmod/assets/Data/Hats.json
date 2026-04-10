@@ -1,0 +1,8 @@
+{
+    "{{ModId}}_Ace_Hat": "{{ModId}}_Ace_Hat/{{i18n:{{ModId}}.Objects.Accessories.Hats.AceHat.Description}}////{{i18n:{{ModId}}.Objects.Accessories.Hats.AceHat.DisplayName}}/0/Mods\\{{ModId}}\\Character\\Farmer\\Hats",
+    "{{ModId}}_Brooks_Hat": "{{ModId}}_Brooks_Hat/{{i18n:{{ModId}}.Objects.Accessories.Hats.BrooksHat.Description}}////{{i18n:{{ModId}}.Objects.Accessories.Hats.BrooksHat.DisplayName}}/1/Mods\\{{ModId}}\\Character\\Farmer\\Hats",
+    "{{ModId}}_Choppers_Hat": "{{ModId}}_Choppers_Hat/{{i18n:{{ModId}}.Objects.Accessories.Hats.ChoppersHat.Description}}////{{i18n:{{ModId}}.Objects.Accessories.Hats.ChoppersHat.DisplayName}}/2/Mods\\{{ModId}}\\Character\\Farmer\\Hats",
+    "{{ModId}}_Marine_Hat": "{{ModId}}_Marine_Hat/{{i18n:{{ModId}}.Objects.Accessories.Hats.MarineHat.Description}}////{{i18n:{{ModId}}.Objects.Accessories.Hats.MarineHat.DisplayName}}/3/Mods\\{{ModId}}\\Character\\Farmer\\Hats",
+    "{{ModId}}_Ruffys_Starw_Hat": "{{ModId}}_Ruffys_Starw_Hat/{{i18n:{{ModId}}.Objects.Accessories.Hats.RuffysStrawHat.Description}}////{{i18n:{{ModId}}.Objects.Accessories.Hats.RuffysStrawHat.DisplayName}}/4/Mods\\{{ModId}}\\Character\\Farmer\\Hats",
+    "{{ModId}}_Sogekings_Mask": "{{ModId}}_Sogekings_Mask/{{i18n:{{ModId}}.Objects.Accessories.Hats.SogekingsMask.Description}}////{{i18n:{{ModId}}.Objects.Accessories.Hats.SogekingsMask.DisplayName}}/5/Mods\\{{ModId}}\\Character\\Farmer\\Hats"
+}

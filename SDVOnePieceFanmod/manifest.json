@@ -6,7 +6,7 @@
 	"UniqueID": "CornCorn.SDVOPMod",
 	"EntryDll": "SDVOPMod.dll",
 	"MinimumApiVersion": "4.0.0",
-	"UpdateKeys": []
+	"UpdateKeys": [],
 	"Dependencies": [
 		{
 			"UniqueID": "CP-SDVOPMod",

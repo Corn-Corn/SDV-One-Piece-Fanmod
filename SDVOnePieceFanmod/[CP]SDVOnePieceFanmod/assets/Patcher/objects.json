@@ -1,0 +1,70 @@
+{
+	"Changes": [
+		{
+			"LogName": "Add food to Data/Objects",
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"FromFile": "assets/Data/Food.json"
+		},
+		{
+			"LogName": "Load food sprites",
+			"Action": "Load",
+			"Target": "Mods/{{ModId}}/Objects/Food",
+			"FromFile": "assets/Sprites/Food.png"
+		},
+		{
+			"LogName": "Add cooking recipes to Data/CookingRecipes",
+			"Action": "EditData",
+			"Target": "Data/CookingRecipes",
+			"FromFile": "assets/Data/CoockingRecipes.json"
+		},
+		{
+			"LogName": "Add hats to Data/hats",
+			"Action": "EditData",
+			"Target": "Data/hats.{{Language}}",
+			"FromFile": "assets/Data/Hats.json"
+		},
+		{
+			"LogName": "Load hat sprites",
+			"Action": "Load",
+			"Target": "Mods/{{ModId}}/Character/Farmer/Hats",
+			"FromFile": "assets/Sprites/Character/Farmer/Hats.png"
+		},
+		{
+			"LogName": "Add shirts to Data/Shirts",
+			"Action": "EditData",
+			"Target": "Data/Shirts",
+			"FromFile": "assets/Data/Shirts.json"
+		},
+		{
+			"LogName": "Load shirt sprites",
+			"Action": "Load",
+			"Target": "Mods/{{ModId}}/Character/Farmer/Shirts",
+			"FromFile": "assets/Sprites/Character/Farmer/Shrits.png"
+		},
+		{
+			"LogName": "Add tinkets to Data/Tinkets",
+			"Action": "EditData",
+			"Target": "Data/Tinkets",
+			"FromFile": "assets/Data/Tinkets.json"
+		},
+		{
+			"LogName": "Load toket sprites",
+			"Action": "Load",
+			"Target": "Mods/{{ModId}}/Character/Farmer/Tinkets",
+			"FromFile": "assets/Sprites/Character/Farmer/Tinkets.png"
+		},
+		{
+			"LogName": "Add weapons to Data/Weapons",
+			"Action": "EditData",
+			"Target": "Data/Weapons",
+			"FromFile": "assets/Data/Weapons.json"
+		},
+		{
+			"LogName": "Load weapon sprites",
+			"Action": "Load",
+			"Target": "Mods/{{ModId}}/Objects/Weapons",
+			"FromFile": "assets/Sprites/Weapons.png"
+		}
+	]
+}
